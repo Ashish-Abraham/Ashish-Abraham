@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on Open Source and Machine Learning Projects
 - 📫 Reach me by e-mail
 
+[![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Ashish-Abraham/github-readme-stats)
+
 <!---
 Ashish-Abraham/Ashish-Abraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
