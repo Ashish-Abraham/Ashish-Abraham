@@ -1,10 +1,10 @@
-<b align="center">👋 Hi, I’m @Ashish-Abraham </b>
+<b align="center">👋 Hello Peeps, I’m @Ashish-Abraham </b>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👀 Loves Machine Learning & Programming.
+- 👀 Into Machine Learning & Programming
 - ✨ Loves to think, network & write
-- 🌱 I’m currently learning Undergraduate in Computer Science
+- 🌱 Learning Undergraduate in Computer Science
 - 💻 Coding in Python, C++ and Rust
-- 💖 Ready to help with ML, Python, C++, OpenCV, doing colabs... 😜
+- 💖 Ready to help with ML, NLP, Python, C++, OpenCV & doing colabs... 😜
 - 💞️ I’m looking to collaborate on Open Source and Machine Learning Projects
 - 📫 Reach me by e-mail <br />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
