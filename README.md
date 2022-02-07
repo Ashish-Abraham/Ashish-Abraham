@@ -6,6 +6,7 @@
 - 💻 Coding in Python, C++ and Rust
 - 💖 Ready to help with ML, NLP, Python, C++, OpenCV & doing colabs... 😜
 - 💞️ I’m looking to collaborate on Open Source and Machine Learning Projects
+- 📑 Find me at https://medium.com/@ashishabraham_57220
 - 📫 Reach me by e-mail or LinkedIn👇 <br />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"><a href="https://www.linkedin.com/in/ashish-abraham-811a23201/" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/master/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
