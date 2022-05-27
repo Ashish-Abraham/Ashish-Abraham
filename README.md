@@ -10,9 +10,9 @@
 - 📑 Find me at https://medium.com/@ashishabraham_57220
 - 📫 Reach me by e-mail or LinkedIn👇 <br />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="left"><a href="https://www.linkedin.com/in/ashish-abraham-811a23201/" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/master/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://twitter.com/ashishabraham02" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/master/icons/twitter.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://instagram.com/_ashish_abraham22" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/master/icons/instagram.svg" alt="xtenzq" width="22px" /></a></p> <br />
+<p align="left"><a href="https://www.linkedin.com/in/ashish-abraham-811a23201/" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/backup/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://twitter.com/ashishabraham02" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/backup/icons/twitter.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://instagram.com/_ashish_abraham22" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/backup/icons/instagram.svg" alt="xtenzq" width="22px" /></a></p> <br />
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
