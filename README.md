@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👀 Into Machine Learning & Programming
 - ✨ Loves to think, network & write
-- 🌱 Learning Undergraduate in Computer Science
+- 🌱 Pursuing Undergraduate in Computer Science
 - 💻 Coding in Python, C++ and Rust
 - 💖 Ready to help with ML, NLP, Python, C++, OpenCV & doing colabs... 😜
 - 💞️ I’m looking to collaborate on Open Source and Machine Learning Projects
