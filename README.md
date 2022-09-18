@@ -4,7 +4,7 @@
 - ✨ Loves to think, network & write
 - 🌱 Pursuing Undergraduate in Computer Science
 - 💻 Coding in Python, C++ and Rust
-- 💖 Ready to help with ML, NLP, Python, C++, OpenCV & doing colabs... 😜
+- 💖 Ready to help with ML, Computer Vision, NLP, Python, C++, & doing colabs... 😜
 - 💞️ I’m looking to collaborate on Open Source and Machine Learning Projects
 - 👨‍💻 [Portfolio](https://ashish-abraham-portfolio.webflow.io/)
 - 📑 Find me at https://medium.com/@ashishabraham_57220
