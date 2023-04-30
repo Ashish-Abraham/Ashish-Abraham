@@ -1,6 +1,6 @@
 <b align="center">👋 Hello Peeps, I’m @Ashish-Abraham </b>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👀 Into Machine Learning & Programming
+- 👀 ML Developer
 - ✨ Loves to think, network & write
 - 🌱 Pursuing Undergraduate in Computer Science
 - 💻 Coding in Python, C++ and Rust
