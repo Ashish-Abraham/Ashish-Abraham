@@ -7,7 +7,7 @@
 - 💖 Mentoring in ML, Computer Vision, NLP, Python
 - 🤝 Looking to join forces on Open Source and Machine Learning Projects
 - 👨‍💻 [Portfolio](https://ashish-abraham-portfolio.webflow.io/)
-- 📑 Find me at https://medium.com/@ashishabraham_57220
+- ✒ Find me at https://medium.com/@ashishabraham_57220
 - 📫 Reach me by e-mail or LinkedIn👇 <br />
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"><a href="https://www.linkedin.com/in/ashish-abraham-811a23201/" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/backup/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
