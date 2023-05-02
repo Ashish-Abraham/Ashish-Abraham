@@ -1,4 +1,4 @@
-<b align="center">👋 Hello Peeps, I’m @Ashish-Abraham </b>
+# 👋 Hello Peeps, I’m @Ashish-Abraham
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👀 ML Developer
 - ✨ Loves to think, network & write
@@ -20,6 +20,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Abraham&layout=compact&theme=radical)](https://github.com/Ashish-Abraham/github-readme-stats)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Skills
+
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow logo" title="TensorFlow" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras logo" title="Keras" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch logo" title="PyTorch" height="25" />&nbsp;
@@ -28,6 +30,9 @@
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV logo" title="" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS logo" title="" height="25" />&nbsp;
+
+## Publications
+- [Automatic Recognition of Continuous Malayalam Speech using Pretrained Multilingual Transformers]([https://ashish-abraham-portfolio.webflow.io/](https://ieeexplore.ieee.org/document/10100598/authors#authors))
 
 
 <!---
