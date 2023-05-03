@@ -1,7 +1,7 @@
 # 👋 Hello Peeps, I’m @Ashish-Abraham
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 💪 ML Developer & Research
-- ✨ Avid explorer of ideas, people and words.
+- ✨ Avid explorer of ideas, people and words
 - 🌱 Pursuing Undergraduate in Computer Science
 - 💻 Codes in Python, C++ and Rust
 - 💖 Mentoring in ML, Computer Vision, NLP, Python
@@ -31,7 +31,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🖋 Publications
+## ✒ Publications
 - [Automatic Recognition of Continuous Malayalam Speech using Pretrained Multilingual Transformers](https://ieeexplore.ieee.org/document/10100598/authors#authors)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
