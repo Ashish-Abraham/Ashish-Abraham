@@ -8,7 +8,7 @@
 - 🤝 Looking to join forces on Open Source and Machine Learning Projects
 - 👨‍💻 [Portfolio](https://ashish-abraham.github.io/)
 - 📜 [Resume](https://drive.google.com/file/d/1ZlgUNEYmcx5p4-KRGHIuGZtYvKYQeWsu/view?usp=share_link)
-- ✒ Find me at https://medium.com/@ashishabraham_57220
+- ✒ Find me at https://medium.com/@ashishabraham02
 - 📫 Reach me by e-mail or LinkedIn👇 <br />
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left"><a href="https://www.linkedin.com/in/ashish-abraham-811a23201/" target="blank"><img align="left" src="https://github.com/xtenzQ/xtenzQ/blob/backup/icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
