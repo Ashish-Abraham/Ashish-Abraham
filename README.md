@@ -7,7 +7,6 @@
 - 💖 Mentoring in ML, Computer Vision, NLP, Python
 - 🤝 Looking to join forces on Open Source and Machine Learning Projects
 - 👨‍💻 [Portfolio](https://ashish-abraham.github.io/)
-- 📜 [Resume](https://drive.google.com/file/d/1ZlgUNEYmcx5p4-KRGHIuGZtYvKYQeWsu/view?usp=share_link)
 - ✒ Find me at https://medium.com/@ashishabraham02
 - 📫 Reach me by e-mail or LinkedIn👇 <br />
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
