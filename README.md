@@ -1,6 +1,6 @@
 # 👋 Hello Peeps, I’m @Ashish-Abraham
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 💪 ML Developer & Research
+- 💪 AI Development & Research
 - ✨ Avid explorer of ideas, people and words
 - 🌱 Pursuing Undergraduate in Computer Science
 - 💻 Codes in Python, C++ and Rust
