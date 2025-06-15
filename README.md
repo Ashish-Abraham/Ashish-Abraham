@@ -34,11 +34,17 @@
 - [Automatic Recognition of Continuous Malayalam Speech using Pretrained Multilingual Transformers](https://ieeexplore.ieee.org/document/10100598/authors#authors)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<!---
 ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Abraham&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Abraham&layout=compact&theme=radical)](https://github.com/Ashish-Abraham/github-readme-stats)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+--->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=83216788" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=83216788&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Ashish-Abraham" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=1097246&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 <!---
 Ashish-Abraham/Ashish-Abraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
